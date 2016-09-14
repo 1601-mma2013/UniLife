@@ -1,9 +1,9 @@
 # UniLife
-**You are required to complete Section I. Analysis by 2nd September. **
+
 
 Goal; observe & describe.
 
-This document is written markdown syntax. To edit this document teach yourself [how to use markdown](https://en.support.wordpress.com/markdown-quick-reference/). You can use any existing markdown editors ([1](https://www.typora.io), [2](http://code52.org/DownmarkerWPF/)) from your local machine and then sync through Github desktop. 
+
 
 # Project Name
 # I. Analysis
@@ -11,9 +11,7 @@ This document is written markdown syntax. To edit this document teach yourself [
 ### a. Scope
 1. objectives
 
-Do you ever notice that people nowadays won't really take time to focus on the detail of an artwork, for example a poster to advertise some products or events, people juss pass by but they only know there is a product on sales or an event on going but they will not stop and look into it. Another example, a wall painting, we as the audience normally enter the gallery just to look at the beauty of the painting but never trying to understand it.
-So we are going to do an installation that can make the audience really stop while they're walking and interact with our artwork. Since our target audience mostly are university students, so our content will do something that related to university student life. The interaction method is the content we are going to express it through video, or image sequence, then the video will react based on the movement of the audience.
-As the audience walk forward, the video will play, if the audience stop walking, the video pause, if the audience walk backward then the video will rewind. The speed of the video will depends on the walking speed of the audience, so if the audience want to look on the detail of the video he/she have to walk slowly then only able to watch clearly.
+People nowadays only focus on their own things, so they always being neglectful. Since they had used to being neglectful, most of them will only step in their own shoes. So, when they face problem they will only see it through their own perspective.  
 
 ### b. Audit
 Review existing work and product
@@ -60,11 +58,11 @@ Find various aspect of audience/customer
 4. (user’s) attitudes - neglectful
 
 5. (user’s) aptitudes
-	- By walking by our installation, the audience will slow down and start to interact our artwork which will make them relax, and have fun
+	- Because of busyness, they neglect most of the things that happen around them.
 
 6. (user’s) motivations - Try to not just only focus on a single goal or only solving problems using one perspective, try to slow down and think of another solution or notice on other little things around you, that will be the things that make you success.
 
-7. (user’s) environments - Exhibitions
+7. (user’s) environments - Corridors around the campus, Exhibitions
 
 8. (user’s) tools - Whole body
 
