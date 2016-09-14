@@ -57,7 +57,7 @@ Find various aspect of audience/customer
 
 3. (user’s) behaviors - Keep on rushing, never notice things around them
 
-4. (user’s) attitudes - Care only themselves, selfish
+4. (user’s) attitudes - neglectful
 
 5. (user’s) aptitudes
 	- By walking by our installation, the audience will slow down and start to interact our artwork which will make them relax, and have fun
