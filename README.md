@@ -11,7 +11,13 @@ Goal; observe & describe.
 ### a. Scope
 1. objectives
 
-People nowadays only focus on their own things, so they always being neglectful. Since they had used to being neglectful, most of them will only step in their own shoes. So, when they face problem they will only see it through their own perspective.  
+Students nowadays only focus on their own things and due to their busyness, they became neglectful. Since they had used to being neglectful, most of them will only step in their own shoes. So the consequence is, when they face problem they will only see it through their own perspective. That's the reason for our project "UniLife". UniLife let the students realise that :
+ - Giving attentions to others may learn something new
+ - Good things only for those who are patience
+ - Spending time to earn experience
+ - There are a lot of things can be done in university
+
+UniLife : It is an interactive installation that we want the aundience which is students to really slow down and play with it, discover it and exlpore it themselves. The interaction method that we used is the video will react based on the audience movement. If the audience walk forward, the video will play, if the audience stop walking, the video will pause, if the audience walk backward, the video will rewind. To really look into the content of the video, they need to adjust their walking speed since the video will react based on their movements.
 
 ### b. Audit
 Review existing work and product
