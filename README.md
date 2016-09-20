@@ -1,4 +1,4 @@
-# Project Name : # UniLife
+# Project Name : UniLife
 #### Team members: 
 Tay Kar Lok 1142701018 | Yong Soon Xuan 1131119497 | Yu Kah Man 1142701211
 
