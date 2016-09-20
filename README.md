@@ -60,10 +60,9 @@ Find various aspect of audience/customer
 
 3. (User’s) behaviors - Keep on rushing, never notice things around them
 
-4. (User’s) attitudes - neglectful
+4. (User’s) attitudes - Neglectful
 
-5. (User’s) aptitudes
-	- Because of busyness, they neglect most of the things that happen around them.
+5. (User’s) aptitudes - Because of busyness, they neglect most of the things that happen around them.
 
 6. (User’s) motivations - Try to not just only focus on a single goal or only solving problems using one perspective, try to slow down and think of another solution or notice on other little things around you, that will be the things that make you success.
 
