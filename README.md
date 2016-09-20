@@ -26,7 +26,8 @@ Review existing work and product
 The links below are the existing work and products that similar to the installation that we are goint to do.
 https://www.youtube.com/watch?v=OGoZktCzMS4
 https://www.youtube.com/watch?v=xFgvNMN2DiQ
-They name this kind of installation as interactive wall
+They name this kind of installation as interactive wall.
+We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. As our content will show the daily life and things that students will and can do. We divided the content into 4 parts, study, sports, relationships and gaming. Which will presents that university life can be very colourful, not as lifeless as they think. By letting them realise the fun of university life, it might change their attitude of being neglectful. 
 
 2. competitors / alternatives / replacement
 The competitors of this installation will be those artists that have the similar concept with us, though the content might be different.
