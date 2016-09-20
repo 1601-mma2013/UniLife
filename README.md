@@ -29,7 +29,7 @@ We are using these 2 links as a reference due to technique is similar with what 
 After interact with our installation, audiences may notice that they ignore a lot of details stuff in their life including uni life. students now a days just focusing in finish doing assignment, but they didn't enjoy the progress of preparing and doing the assignment, we need to change this situation or habit to made them enjoy and notice the details stuff in their life.
 
 2. Competitors / Alternatives / Replacement
-The competitors of this installation will be those artists that have the similar concept with us, though the content might be different.
+The competitors of this installation will be those artists that have the similar concept with us, though the content might be different. The content of UniLife is really common and related to those student who studying in university but according to the researching survey, we believe that our installation is unique. Audiences may get different experiences to understand how important the detail thing will affect through their life.
 
 3. Relevant technologies 
 The technologies that we are going to use, hardwares are kinect V1/V2, a personal computer, an ultra-short projector and also a white screen. For the software will be Adobe After Effects and Processing. 
