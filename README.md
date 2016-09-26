@@ -85,9 +85,9 @@ To really interact with the artwork itself and explore the meaning of the conten
 
 2. Patterns in user and customer behaviors - Peh Min always too focus on one thing that will make her missed other things, and make her become very careless. 
 
-3. Attitudes - She wish that she can overcome the carelessness.
+3. Attitudes - She wish that she can overcome the carelessness and neglectful.
 
-4. Aptitudes - She can solves the problems by looking at the problems through different perspectives. 
+4. Aptitudes - She always focus on her handphone or the things in front of her while she is walking. 
 
 5. Environments - public space
 
@@ -104,7 +104,7 @@ Represent domain factors beyond individual users and customers
 # II. Synthesis
 ## 3. Requirements Definition
 ### a. Context Scenarios
-A description on how the product fits into the persona’s life and environment, and how it helps them achieve their goals by telling the narrative about ideal user experiences
+On Monday, Peh Min woke up early as usual to prepare herself to university. She has to do a presentation about the progress of her assignment that day, and she felt bored, because she feels like she go to university just for assignment and study and graduate with the certificate. Besides that she also felt very streesed because she need to submit the assignment next week, and the assignments are going to take most of her free time. After she arrived at university, she rush to the class as usual just in case not to get late for her presentation, but something stops her. A big screen that shows the video that react based on her movement stopped her, as she walk slowly, backward and forward again, she tested the installation. The video is about the fun moments in the university, such as having fun while doing assignments, go for sports, gaming for relax and more. As she watch the video carefully, she realise that she might change her boring university life. So she quickly rush to the class and do her presentation. After that, she invited her friends, go to a coffee shop, discuss while relaxing themselves, and they find that it is more effective to finish the assignment and more enjoyable. After the discussion, is already night time, so she went back to sleep. Before she sleep, she recall the installation she watched this morning and she think that, she might as well enjoy her uni life as the video shown on the installation. 
 
 ### b. Requirements
 Describe necessary capabilities of the product
