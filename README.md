@@ -119,11 +119,15 @@ Describe necessary capabilities of the product
 [![Survey2.png](http://s20.postimg.org/q31y4e7sd/Survey2.png)](http://postimg.org/image/tmnvu7ai1/)
 [![Survey3.png](http://s20.postimg.org/kqd3q9jvx/Survey3.png)](http://postimg.org/image/muxgrclih/)
 [![Survey4.png](http://s20.postimg.org/b4jj9ysq5/Survey4.png)](http://postimg.org/image/uz5kw37xl/)
-[![Survey5.png](http://s20.postimg.org/z70d4u9d9/Survey5.png)](http://postimg.org/image/6u4vednmx/)
 
 2. User mental models
 
+Audiences just need to walk between the white screen, they can feel the fun environment of UNILIFE which are studying, sport, relationship and University. This installation is using visual and interactive devices for audiences to get the information what we want to share.
+
 3. Design imperatives
+
+a. This installation provides a visual of fun environment of university life for audiences
+b. This installation provides a lot of details in visual for audiences to increase their mindfulness
 
 4. Product vision
 
