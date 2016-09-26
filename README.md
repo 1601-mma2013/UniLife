@@ -132,10 +132,15 @@ b. This installation provides a lot of details in visual for audiences to increa
 
 
 4. Product vision
-The students of the university interaction with the installation itself. 
 
+The students of the university can interact with the installation themselves. They just need to walk through and look at the visual detaily. 
 
 5. Business requirements
+
+- Collected Information
+# 
+
+
 
 6. Technology
 
