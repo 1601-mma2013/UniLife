@@ -66,35 +66,36 @@ Find various aspect of audience/customer
 ## 2. Modeling
 ### a. Personas
 Name : Goh Peh Min
-Occupation : Student
+Occupation : Student and event organiser
 Age : 18
 
 
+
+
 1. **Goals** 
+
 To really interact with the artwork itself and explore the meaning of the content behind
 
-2. Patterns in user and customer behaviors - Peh Min always too focus on one thing that will make her missed other things, and make her become very careless. 
+2. Patterns in user and customer behaviors - Peh Min always ignore the poster on the bulletin wall, even she saw a poster in facebook, she will only read the overall but not all the detail
 
-3. Attitudes - She wish that she can overcome the carelessness and neglectful.
+3. Attitudes - She is good in designing
+             - Like to design poster
+	     - Have good sense of design
 
-4. Aptitudes - She always focus on her handphone or the things in front of her while she is walking. 
+4. Aptitudes - She only know how to do poster, and she cannot use other method to publicise her event
 
-5. Environments - public space
+5. Environments - bulletin board
+                  She always sees a lot of poster pasted on the bulletin board.
 
-6. Tools - hand
+6. Tools - Screen
+         - Computer
 
-### b. Other Models
-Represent domain factors beyond individual users and customers
-
-1. Workflows among multiple people
-
-2. Environments
-
-3. Artifacts
 # II. Synthesis
 ## 3. Requirements Definition
 ### a. Context Scenarios
-On Monday, Peh Min woke up early as usual to prepare herself to university. She has to do a presentation about the progress of her assignment that day, and she felt bored, because she feels like she go to university just for assignment and study and graduate with the certificate. Besides that she also felt very streesed because she need to submit the assignment next week, and the assignments are going to take most of her free time. After she arrived at university, she rush to the class as usual just in case not to get late for her presentation, but something stops her. A big screen that shows the video that react based on her movement stopped her, as she walk slowly, backward and forward again, she tested the installation. The video is about the fun moments in the university, such as having fun while doing assignments, go for sports, gaming for relax and more. As she watch the video carefully, she realise that she might change her boring university life. So she quickly rush to the class and do her presentation. After that, she invited her friends, go to a coffee shop, discuss while relaxing themselves, and they find that it is more effective to finish the assignment and more enjoyable. After the discussion, is already night time, so she went back to sleep. Before she sleep, she recall the installation she watched this morning and she think that, she might as well enjoy her uni life as the video shown on the installation. 
+On Monday, Peh Min went to her university. She went there to promote her club event, so she set up a publicity booth. Then, she put a lot of flyers on the table, also a promotional video playing in the screen. Then she go paste posters at the bulletin board in front of the library. From morning until evening, there are only few people that really ask about the event. Others were like took the poster or flyer and just threw it into dustbin. She realised that the students will not really give attention on the poster that pasted on the bulletin board, they will just ignore it and walk by it. 
+
+During night time, while she was thinking how to solve this problem. She realise that she need something interactive that will catch the attention of the students to promote her event effectively.
 
 ### b. Requirements
 Describe necessary capabilities of the product
