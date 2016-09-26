@@ -134,6 +134,9 @@ The students of the university can interact with the installation themselves. Th
 
 6. Technology
 
+The technology we using for this interactive poster is Kinect2.0. Besides that, we are using processing 3.0, JAVA Script coding for our base. The reason why we using kinect2.0 for interactive poster is it can detect 6 person at the same time and fully body structure including face emotion. Other than that, we convert the poster into PNG sequence and using "MAP" method to detect the movement of the user so the interactive poster will according the user movement to have different effect.
+
+
 ## 4. Design Framework
 ### a. Elements
 Deﬁne manifestations of information and functionality
