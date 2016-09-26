@@ -127,9 +127,13 @@ Audiences just need to walk between the white screen, they can feel the fun envi
 3. Design imperatives
 
 a. This installation provides a visual of fun environment of university life for audiences
+
 b. This installation provides a lot of details in visual for audiences to increase their mindfulness
 
+
 4. Product vision
+The students of the university interaction with the installation itself. 
+
 
 5. Business requirements
 
