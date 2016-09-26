@@ -111,7 +111,7 @@ On Monday, Peh Min woke up early as usual to prepare herself to university. She 
 Describe necessary capabilities of the product
 1. Functional and data needs
 
-####Planing for UNILIFE
+####Planing for Interactive-Poster
 [![FLOOR_PLAN.png](http://s20.postimg.org/q6r66wnvx/FLOOR_PLAN.jpg)](http://postimg.org/image/7efb3brhl/)
 [![Installation_Planing.png](http://s20.postimg.org/9a6os85pp/Installation_Planing.png)](http://postimg.org/image/9a6os85pl/)
 
