@@ -126,7 +126,7 @@ Alyssa will pass by the corridor of the library every weekday afther she finishe
 
 Describe necessary capabilities of the product
 
-#### . Functional and data needs
+#### Functional and data needs
 [![TIME_TABLE](https://s20.postimg.org/hazqc8165/TIME_TABLE.jpg)](https://postimg.org/image/7qg3pcbu1/)
 
 Table for percentage of student walk by central plaze
@@ -134,22 +134,22 @@ Table for percentage of student walk by central plaze
 [![TIME_TABLE2](https://s20.postimg.org/hc9o5n2zx/time_table2.jpg)](https://postimg.org/image/dsnqfu0a1/)
 Table for responses on reading poster
 
-#### . User mental models
+#### User mental models
 
 Audiences just need to walk between the white screen, they can feel the fun environment of UNILIFE which are studying, sport, relationship and University. This installation is using visual and interactive devices for audiences to get the information what we want to share.
 
-#### . Design imperatives
+#### Design imperatives
 
 a. This installation provides a visual of fun environment of university life for audiences
 
 b. This installation provides a lot of details in visual for audiences to increase their mindfulness
 
 
-#### . Product vision
+#### Product vision
 
 The students of the university can interact with the installation themselves. They just need to walk through and look at the visual detaily and feel the fun environment while interact with this installation
 
-#### . Business requirements
+#### Business requirements
 
 - Collected Information
 
@@ -165,7 +165,7 @@ The students of the university can interact with the installation themselves. Th
 	
 
 
-#### . Technology
+#### Technology
 
 The technology we using for this interactive poster is Kinect2.0. Besides that, we are using processing 3.0, JAVA Script coding for our base. The reason why we using kinect2.0 for interactive poster is it can detect 6 person at the same time and fully body structure including face emotion. Other than that, we convert the poster into PNG sequence and using "MAP" method to detect the movement of the user so the interactive poster will according the user movement to have different effect.
 
