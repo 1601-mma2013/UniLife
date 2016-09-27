@@ -175,6 +175,7 @@ The technology we using for this interactive poster is Kinect2.0. Besides that, 
 ## 4. Design Framework
 ### a. Elements
 Deﬁne manifestations of information and functionality
+
 1. Information
 [![floor_plan.jpg](https://s20.postimg.org/dq3uszwml/floor_plan.jpg)](https://postimg.org/image/prz8n55ux/)
 The different betweene interactive poster and graphic poster design without any interactive is attraction and neglection. Human need can remmeber and get the information easily while they are joining in or a part of this installation.
