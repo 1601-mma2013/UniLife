@@ -187,9 +187,8 @@ The size of interactive poster is quite big which is 10 feets X 8 feets, the cap
 Design overall structure of user experience
 [![floor_plan.jpg](https://s20.postimg.org/dq3uszwml/floor_plan.jpg)](https://postimg.org/image/prz8n55ux/)
 
-1. groupings and hierarchy
+- Installation Principles
+* People communicate in many ways in daily life. HCI interaction which is concerned with the joint performance of tasks by users and machines, it is some sort of communication, the structure of between users and machine. The infographic will consist images, sounds, video, text that will be exchangeable over communication among users. 
 
-2. Territories of each functional & design elements
 
-
-3. Arrangements of containers & components
+From this installation, movement would happens in some sort of space between the users and LED screen. Users communicate with the infographic according to their body movement. In in this installation,
