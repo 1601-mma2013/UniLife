@@ -25,11 +25,16 @@ Review existing work and product
 
 ####2. Competitors / Alternatives / Replacement
 
-		The competitors of this installation will be those artists like Sarah Moore and Toshio Iwai ,  that have the similar concept with us, though the content might be different. 
+###Portal MMU - University Portal bulletin
 
-	Pros - Improved publicity of the events
+##Pros 
+- Users can get the event or activities information by using Portal MMU
+- The cost of this advertisement is totally free
 
-	Cons - Costed higher then normal publicity method
+
+##Cons 
+- Users need to sign in just for getting the infomation or advertisement
+- User cannot have any interaction with the advertisement by using portal MMU.
 
 3. Relevant technologies 
 
