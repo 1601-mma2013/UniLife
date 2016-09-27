@@ -79,6 +79,9 @@ Understand product vision and constraints
 
 
 ## 2. Modeling
+
+[![floor_plan.jpg](https://s20.postimg.org/dq3uszwml/floor_plan.jpg)](https://postimg.org/image/prz8n55ux/)
+
 ### a. Personas
 Name : Wo Bu Dong
 Occupation : Student, Event Organiser
