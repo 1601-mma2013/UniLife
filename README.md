@@ -24,8 +24,8 @@ We are using these 2 links as a reference due to technique is similar with what 
 
 ####2. Competitors / Alternatives / Replacement
 
-######Portal MMU - University Portal bulletin
-######Facebook - Social Network
+##### Portal MMU - University Portal bulletin
+##### Facebook - Social Network
 
 Pros 
 - Users can get the event or activities information by using Portal MMU
@@ -35,7 +35,7 @@ Cons
 - Users need to sign in just for getting the infomation or advertisement
 - User cannot have any interaction with the advertisement by using portal MMU.
 
-######Facebook - Social network
+##### Facebook - Social network
 
 Pros
 - It is easily for user to get event information by using any gadgets that can access facebook
