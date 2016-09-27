@@ -139,7 +139,16 @@ The students of the university can interact with the installation themselves. Th
 #### . Business requirements
 
 - Collected Information
-# 
+
+* User prefer interactive poster as publicity method
+
+- Key Attributes of the Product
+
+* A publicity ways for any eveny in University
+* Student may get the advertisement information by Interactive Poster easily
+
+- Scope of the Project
+
 
 
 
