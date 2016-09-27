@@ -45,9 +45,9 @@ Cons
 - It do not have limitations to promote your event range
 - No one limit the content of the information sharing
 
-3. Relevant technologies 
+####3. Relevant Technologies
 
-	The technologies that we are going to use, hardwares are kinect V1/V2, a personal computer, an ultra-short projector and also four wall hanging LED screen. For the software will be Adobe After Effects and Processing. 
+The technologies that we are going to use, hardwares are kinect V1/V2, a personal computer, an ultra-short projector and also four wall hanging LED screen. For the software will be Adobe After Effects and Processing. 
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
