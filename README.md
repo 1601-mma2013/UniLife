@@ -194,10 +194,9 @@ Design overall structure of user experience
 
 
 
-####1. Territories of each functional & design elements
+#### Installation Principles 
+* People communicate many ways in their daily life. HCI interaction is concerned with the joint performance of tasks by users and machines. The structure of communication between users with infographic, is some sort of communication, and communication is about movement that by detecting the movement of users then the infographic will react differet images, sounds, videos, text and etc. The interaction of this installation is important to let users to react movement as a communication to understand the content of the infograhpic display on the LED screen.   
 
-
-####2. Arrangements of containers & components
 
 [![Installation-Planning](https://s20.postimg.org/9a6os85pp/Installation_Planing.png)](https://postimg.org/image/9a6os85pl/)
 
