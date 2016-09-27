@@ -14,7 +14,7 @@ Tay Kar Lok 1142701018 | Yong Soon Xuan 1131119497 | Yu Kah Man 1142701211
 
 Review existing work and product
 
-####1. Field (market) research
+##1. Field (market) research
 	The links below are the existing work and products that similar to the installation that we are goint to do.
 
 	https://www.youtube.com/watch?v=OGoZktCzMS4
@@ -23,16 +23,16 @@ Review existing work and product
 
 	We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies to put up their information and animate them into an infographic animation that will attract the attention of the audiences. 
 
-####2. Competitors / Alternatives / Replacement
+##2. Competitors / Alternatives / Replacement
 
-###Portal MMU - University Portal bulletin
+#Portal MMU - University Portal bulletin
 
-##Pros 
+Pros 
 - Users can get the event or activities information by using Portal MMU
 - The cost of this advertisement is totally free
 
 
-##Cons 
+Cons 
 - Users need to sign in just for getting the infomation or advertisement
 - User cannot have any interaction with the advertisement by using portal MMU.
 
