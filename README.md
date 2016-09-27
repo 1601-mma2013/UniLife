@@ -175,26 +175,28 @@ The technology we using for this interactive poster is Kinect2.0. Besides that, 
 
 ## 4. Design Framework
 ### a. Elements
-Deﬁne manifestations of information and functionality
-1. Information
+Deﬁne manifestations of information and functionalit
 
-2. Functions
+1. Functional and data elements 
+* To let audience interact and pay attention to the poster display on the LED screen. 
 
-3. Mechanisms
+2. Form factor 
+* This is an installtion of interactive poster
 
-4. Actions
+3. Posture 
+* The body movement of a person.  
 
-5. Domain object models
+4. Input methods 
+* This kinect device detect the movement on x-axis of a person
+
+5. Output methods
+* LED Screen, visuals change react depends on the movement of a person. 
 
 ### b. Framework
 Design overall structure of user experience
-1. Object relationships
-2. Conceptual groupings
-3. Navigation sequencing
-4. Principles and patterns
-5. Floor Plan
-	6. flow
-	7. sketches
-	8. storyboards
-### c. Key Path and Validation Scenarios
-Describe how the persona interacts with the product
+- Installation Sketch
+
+- Functional & Design principles 
+* This installation have a better method to promote 
+
+
