@@ -192,12 +192,13 @@ The size of interactive poster is quite big which is 10 feets X 8 feets, the cap
 Design overall structure of user experience
 [![floor_plan.jpg](https://s20.postimg.org/dq3uszwml/floor_plan.jpg)](https://postimg.org/image/prz8n55ux/)
 
-###1. groupings and hierarchy
-
-###2. Territories of each functional & design elements
 
 
-###3. Arrangements of containers & components
+####1. Territories of each functional & design elements
+
+
+####2. Arrangements of containers & components
+
 [![Installation-Planning](https://s20.postimg.org/9a6os85pp/Installation_Planing.png)](https://postimg.org/image/9a6os85pl/)
 
 This installation use human body as a video player timeline, it will detect user walking speed and movement and give reaction of the infographic on LED screen. It is same with the image shown above.
