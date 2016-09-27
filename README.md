@@ -198,7 +198,9 @@ Design overall structure of user experience
 
 
 	3. Arrangements of containers & components
-
+	[![Installation-Planning](https://s20.postimg.org/9a6os85pp/Installation_Planing.png)](https://postimg.org/image/9a6os85pl/)
+	We using this human as movie player timeline, it will detect user walking tempo and accrording to the user walking tempo and perform the infographic on LED screen. It is same with the image showing above.
+	
 ####2. Key path Scenario
 
 The first impression of interactive poster given to user that it is a big weird installation setting at Centrel Plaza. Because of curiosity, user may walk in and have a look into the interactive poster to see is it need any interaction. Besides that, user may wonder if this installation need any huge activity because they will refuse to interact with it. Luckily, interactive poster just need user to passby, it will detect the body movement of user. It will according to the user walking tempo, and show user the infographic. Before know the advertisement and infomation, user may wonder who build this big installation at Centrel Plaze, they not sure who is the oganizer or related to any university club or society. Once user interact with interactive poster, user just can understand what the content talk about.
