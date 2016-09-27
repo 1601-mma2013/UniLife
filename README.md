@@ -111,14 +111,9 @@ Describe necessary capabilities of the product
 1. Functional and data needs
 
 ####Planing for Interactive-Poster
-[![FLOOR_PLAN.png](http://s20.postimg.org/q6r66wnvx/FLOOR_PLAN.jpg)](http://postimg.org/image/7efb3brhl/)
+
 [![Installation_Planing.png](http://s20.postimg.org/9a6os85pp/Installation_Planing.png)](http://postimg.org/image/9a6os85pl/)
 
-####Survey Form
-[![Survey1.png](http://s20.postimg.org/6mh8hvcod/Survey1.png)](http://postimg.org/image/lv75vn6cp/)
-[![Survey2.png](http://s20.postimg.org/q31y4e7sd/Survey2.png)](http://postimg.org/image/tmnvu7ai1/)
-[![Survey3.png](http://s20.postimg.org/kqd3q9jvx/Survey3.png)](http://postimg.org/image/muxgrclih/)
-[![Survey4.png](http://s20.postimg.org/b4jj9ysq5/Survey4.png)](http://postimg.org/image/uz5kw37xl/)
 
 2. User mental models
 
