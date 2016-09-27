@@ -195,7 +195,7 @@ Design overall structure of user experience
 
 
 #### Installation Principles 
-* People communicate many ways in their daily life. The elements of interaction design is Human Computer Interaction. HCI concerned with the joint performance of tasks by users and machines. The structure of communication between users with infographic, is some sort of communication, and communication is about movement that by detecting the movement of users then the infographic will react differet images, sounds, videos, text and etc. The interaction of this installation is important to let users to react movement as a communication to understand the content of the infograhpic display on the LED screen. The way to attract users not to neglect in this installation is users able to communicate with infographic through interactive which can make them feel curiousity and interested.      
+* The elements of interaction design is Human Computer Interaction. HCI concerned with the joint performance of tasks by users and machines. The structure of communication between users with infographic, is some sort of communication, and communication is about movement that by detecting the movement of users then the infographic will react different images, sounds, videos, text and etc. The interaction of this installation is important to let users to react movement as a communication to understand the content of the infograhpic display on the LED screen. The way to attract users not to neglect in this installation is users able to communicate with infographic through interactive which can make them feel curiousity and interested.      
 
 
 [![Installation-Planning](https://s20.postimg.org/9a6os85pp/Installation_Planing.png)](https://postimg.org/image/9a6os85pl/)
