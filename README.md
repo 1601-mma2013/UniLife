@@ -115,7 +115,7 @@ b. This installation provides a lot of details in visual for audiences to increa
 
 #### . Product vision
 
-The students of the university can interact with the installation themselves. They just need to walk through and look at the visual detaily. 
+The students of the university can interact with the installation themselves. They just need to walk through and look at the visual detaily and feel the fun environment while interact with this installation
 
 #### . Business requirements
 
@@ -130,7 +130,7 @@ The students of the university can interact with the installation themselves. Th
 
 - Scope of the Project
 
-
+	
 
 
 #### . Technology
