@@ -1,46 +1,48 @@
 # Project Name : Interactive-Poster
+
 #### Team members: 
 Tay Kar Lok 1142701018 | Yong Soon Xuan 1131119497 | Yu Kah Man 1142701211
-
-
 
 # I. Analysis
 ## 1. Research  
 ### a. Scope
 1. Objectives
 
-To let the clubs and societies to have a better method to promote and publicize their events.
+	To let the clubs and societies to have a better method to promote and publicize their events.
 
 ### b. Audit
+
 Review existing work and product
 
 1. Field (market) research
-The links below are the existing work and products that similar to the installation that we are goint to do.
+	The links below are the existing work and products that similar to the installation that we are goint to do.
 
-https://www.youtube.com/watch?v=OGoZktCzMS4
+	https://www.youtube.com/watch?v=OGoZktCzMS4
 
-https://www.youtube.com/watch?v=xFgvNMN2DiQ
+	https://www.youtube.com/watch?v=xFgvNMN2DiQ
 
-We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies to put up their information and animate them into an infographic animation that will attract the attention of the audiences. 
+	We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies to put up their information and animate them into an infographic animation that will attract the attention of the audiences. 
 
 2. Competitors / Alternatives / Replacement
 
-The competitors of this installation will be those artists that have the similar concept with us, though the content might be different. 
+	The competitors of this installation will be those artists that have the similar concept with us, though the content might be different. 
 
-Pros - Improved publicity of the events
+	Pros - Improved publicity of the events
 
-Cons - Costed higher then normal publicity method
+	Cons - Costed higher then normal publicity method
 
 3. Relevant technologies 
 
-The technologies that we are going to use, hardwares are kinect V1/V2, a personal computer, an ultra-short projector and also four wall hanging LED screen. For the software will be Adobe After Effects and Processing. 
+	The technologies that we are going to use, hardwares are kinect V1/V2, a personal computer, an ultra-short projector and also four wall hanging LED screen. For the software will be Adobe After Effects and Processing. 
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
+
 1. Product {project} vision 
 
 2. Risk
 	- The audience might not really interact with our installation.
+
 3. Obstacles
 	- The risk of using kinect is it might not function properly when a lot of people detected in front of the kinect. The device and the processing might malfunction.
  
