@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=OGoZktCzMS4
 
 https://www.youtube.com/watch?v=xFgvNMN2DiQ
 
-	We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies to put up their information and animate them into an infographic animation that will attract the attention of the audiences. 
+We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies to put up their information and animate them into an infographic animation that will attract the attention of the audiences. 
 
 ####2. Competitors / Alternatives / Replacement
 
@@ -32,10 +32,18 @@ Pros
 - Users can get the event or activities information by using Portal MMU
 - The cost of this advertisement is totally free
 
-
 Cons 
 - Users need to sign in just for getting the infomation or advertisement
 - User cannot have any interaction with the advertisement by using portal MMU.
+
+######Facebook - Social network
+
+Pros
+- It is easily for user to get event information by using any gadgets that can access facebook
+
+Cons
+- It do not have limitations to promote your event range
+- No one limit the content of the information sharing
 
 3. Relevant technologies 
 
@@ -47,7 +55,6 @@ Understand product vision and constraints
 1. Product vision 
 	- The content of this interactive poster is more in infograhic and advertising
  
-
 2. Risk
 	- The audience might not really interact with our installation.
 
