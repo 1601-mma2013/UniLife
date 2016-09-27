@@ -33,9 +33,7 @@ Cons - Costed higher then normal publicity method
 
 3. Relevant technologies 
 
-The technologies that we are going to use, hardwares are kinect V1/V2, a personal computer, an ultra-short projector and also a white 
-
-screen. For the software will be Adobe After Effects and Processing. 
+The technologies that we are going to use, hardwares are kinect V1/V2, a personal computer, an ultra-short projector and also four wall hanging LED screen. For the software will be Adobe After Effects and Processing. 
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
