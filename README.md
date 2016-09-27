@@ -8,11 +8,9 @@ Tay Kar Lok 1142701018 | Yong Soon Xuan 1131119497 | Yu Kah Man 1142701211
 ### a. Scope
 1. Objectives
 
-	To let the Multimedia University Cyberjaya Chinese Language Society to have a better method to promote and publicize their events.
+	To let Chinese Language Society Multimedia University Cyberjaya  to have a better method to promote and publicize their events.
 
 ### b. Audit
-
-Review existing work and product
 
 ####1. Field (market) research
 
@@ -22,11 +20,12 @@ https://www.youtube.com/watch?v=OGoZktCzMS4
 
 https://www.youtube.com/watch?v=xFgvNMN2DiQ
 
-We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies in university to put up their information and animate them into an infographic animation that will attract the attention of the audiences. For the content of this interactive poster is base on what client need but we recommend client to use typographic, it can be renenber by user easily.
+We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the Chinese Language Society in Multimedia University to put up their information and animate them into an infographic animation that will attract the attention of the audiences. For the content of this interactive poster is base on what client need but we recommend client to use typographic, it can be remember by user easily.
 
 ####2. Competitors / Alternatives / Replacement
 
 ######Portal MMU - University Portal bulletin
+######Facebook - Social Network
 
 Pros 
 - Users can get the event or activities information by using Portal MMU
@@ -44,25 +43,27 @@ Pros
 Cons
 - It do not have limitations to promote your event range
 - No one limit the content of the information sharing
+- It can consider as a non official information sharing
 
 ####3. Relevant Technologies
 
-The technologies that we are going to use, hardwares are kinect V1/V2, a personal computer, an ultra-short projector and also four wall hanging LED screen. For the software will be Adobe After Effects and Processing. 
+The technologies that we are going to use, hardwares are kinect V1/V2, to sense the body movement of the student base on the Axis-x as the input. Four LED screen as the output of the infographic. A personal computer that runs the code and program behind. 
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
 
 1. Product vision 
 	- The content of this interactive poster is more in infograhic and advertising.
-	- User may remember the information sharing by using interactive poster.
+	- User may remember the information shared by using interactive poster easily.
+	- User will take longer time to look at the detail of the content. 
  
 2. Risk
 	- The audience might not really understand how interactive poster functioned.
-	- Visual content may not able to every generation.
-
+	- The audience will not interact with the installation itself
+	
 3. Obstacles
 	- The risk of using kinect is it might not function properly when a lot of people detected in front of the kinect. The device and the processing might malfunction.
-	- User may not spend their time more to interact with interactive poster.
+	- User may spend their time more on playing with the installation then reading the information itself.
 	
  
 4. Constraints 
@@ -96,7 +97,7 @@ Alyssa is a undergrad student of Accounting in Faculty of Management in Multimed
 
 -To have more fun and interesting moment in her university life
 
--Need somthing that make her think is interesting enough 
+-Need something that make her think that it is interesting enough 
 
 
 2. Patterns in user and customer behaviors - 
@@ -109,27 +110,14 @@ Alyssa is a undergrad student of Accounting in Faculty of Management in Multimed
 
 5. Environments - The corridor in front of the library 
                    
-		  Alyssa will pass by the corridor of the library every weekday afther she finished her class, where she can see a lot of poster pasted on the bulletin board. She will walk from Faculty of Management to her hostel through this path.
+Alyssa will pass by the corridor of the library every weekday afther she finished her class, where she can see a lot of poster pasted on the bulletin board. She will walk from Faculty of Management to her hostel through this path.
 
 6. Tools - LED screens, Computer, Kinect
 
-### b. Other Models
-Represent domain factors beyond individual users and customers
-
-1. Workflows among multiple people
-
-2. Environments
-
-3. Artifacts
 # II. Synthesis
 ## 3. Requirements Definition
 ### a. Context Scenarios
 
-A sample context scenario
-
-The following is the first iteration of a context scenario for a primary persona for a personal digital assistant (PDA) type phone, including both the device and its service. Our persona is Vivien Strong, a real-estate agent in Indianapolis, whose goals are to balance work and home life, close the deal, and make each client feel like he or she is her only client. 
-
-Here is Alyssa’s context scenario:
 
 1. 8:00 O' clock early in the morning, Alyssa woke up and prepare to go for her class. While preparing, she saw a flyer on the floor, she quickly pick it up and throw it into the dustbin. Then she walk to the class by taking the same path as usual. While she walk through Central Plaza, a lot of students asked her to join the events, gave her flyers, but she declined all of them. She saw four LED screens were set on the wall of the library, but she didn't care about it so she just walk by because it was the same poster as she saw in the morning. But then something caught her attention, the content of the poster in the LED screen move as well as she moved. Then, she try to play around with it and she find it very interesting. By playing with the installation, she also saw a lot of informations of the event and photos from the event before. She began to get interested about the event, but it is time for her class so she rush to her class immediately. After her class, she want to walk back to her hostel. On the same way, she realise that there are a lot of people gathering in front of the library which they are playing with the installation itself. Then she decided to walk to the booth and ask for the detail. Finally she joined the event as a participant. Then she walk back to her hostel and rest. 
 
