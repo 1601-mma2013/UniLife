@@ -128,7 +128,7 @@ Describe necessary capabilities of the product
 
 #### . Functional and data needs
 [![TIME_TABLE](https://s20.postimg.org/hazqc8165/TIME_TABLE.jpg)](https://postimg.org/image/7qg3pcbu1/)
-
+Table for percentage of student walk by central plaze
 
 #### . User mental models
 
