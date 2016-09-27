@@ -184,19 +184,13 @@ Deﬁne manifestations of information and functionality
 The different betweene interactive poster and graphic poster design without any interactive is attraction and neglection. Human need can remmeber and get the information easily while they are joining in or a part of this installation.
 
 The size of interactive poster is quite big which is 10 feets X 8 feets, the capacity of people joining maximum is 6 person. We link 4 LED screen together and user can do any bidy movement in front of the screen, it can detect the body movement of user to show different infographic for the user.
+ 
 
-####2. Form factor 
-* This is an installtion of interactive poster
-
-####3. Posture 
-* The body movement of a person.  
-
-####4. Input methods 
-* This kinect device detect the movement on x-axis of a person
+####2. Input methods 
+* This kinect2.0 device detect the movement on x-axis of users and performing infographic react according to the user body movement which is real-time installation.
 
 ####5. Output methods
-* LED Screen, visuals change react depends on the movement of a person. 
-
+* Infographic is displayed on LED screen. The infographic base on the university club and society given but we will filter the content of what they given and made sure the content didn't affect any sensitive material.
 
 ### b. Framework
 Design overall structure of user experience
