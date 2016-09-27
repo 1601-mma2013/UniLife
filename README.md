@@ -54,23 +54,11 @@ Understand product vision and constraints
 Understand user needs and behavior and describe it.
 Find various aspect of audience/customer
  
-1. Users
+[![User_Observation1.jpg](http://s20.postimg.org/frun8umel/User_Observation1.jpg)](http://postimg.org/image/m5jqc3rah/)
+[![User_Observation2.jpg](http://s20.postimg.org/rfop3ebjh/User_Observation2.jpg)](http://postimg.org/image/lrieci76x/)
+[![User_Observation3.jpg](http://s20.postimg.org/yhmmplf59/User_Observation3.jpg)](http://postimg.org/image/5rzqsyb55/)
+[![User_Observation4.jpg](http://s20.postimg.org/e8z93vfu5/User_Observation4.jpg)](http://postimg.org/image/y3lapzv1l/)
 
-2. Potential users - Students of the university
-
-3. (User’s) behaviors - They only focus on their own thing, will not take a closer look to the poster or flyer even it is in front of them 
-
-4. (User’s) attitudes - Neglectful
-
-5. (User’s) aptitudes - Because of busyness, they neglect most of the things that happen around them.
-
-6. (User’s) motivations - Try to not just only focus on a single goal or only solving problems using one perspective, try to slow down and think of another solution or notice on other little things around you, that will be the things that make you success.
-
-7. (User’s) environments - Corridors around the campus, Exhibitions
-
-8. (User’s) tools - Whole body
-
-9. (User’s) challenges - Doesn't really care about others.
 
 ## 2. Modeling
 ### a. Personas
@@ -112,14 +100,7 @@ Describe necessary capabilities of the product
 
 - Planing for Interactive-Poster
 
-[![Installation_Planing.png](http://s20.postimg.org/9a6os85pp/Installation_Planing.png)](http://postimg.org/image/9a6os85pl/)
-
-- Survey Form
-
-[![User_Observation1.jpg](http://s20.postimg.org/frun8umel/User_Observation1.jpg)](http://postimg.org/image/m5jqc3rah/)
-[![User_Observation2.jpg](http://s20.postimg.org/rfop3ebjh/User_Observation2.jpg)](http://postimg.org/image/lrieci76x/)
-[![User_Observation3.jpg](http://s20.postimg.org/yhmmplf59/User_Observation3.jpg)](http://postimg.org/image/5rzqsyb55/)
-[![User_Observation4.jpg](http://s20.postimg.org/e8z93vfu5/User_Observation4.jpg)](http://postimg.org/image/y3lapzv1l/)
+[![floor_plan.jpg](http://s20.postimg.org/qspsdvenh/floor_plan.jpg)](http://postimg.org/image/ucbq3ohd5/)
 
 #### . User mental models
 
