@@ -53,26 +53,25 @@ The technologies that we are going to use, hardwares are kinect V1/V2, a persona
 Understand product vision and constraints
 
 1. Product vision 
-	- The content of this interactive poster is more in infograhic and advertising
+	- The content of this interactive poster is more in infograhic and advertising.
+	- User may remember the information sharing by using interactive poster.
  
 2. Risk
-	- The audience might not really interact with our installation.
+	- The audience might not really understand how interactive poster functioned.
+	- Visual content may not able to every generation.
 
 3. Obstacles
 	- The risk of using kinect is it might not function properly when a lot of people detected in front of the kinect. The device and the processing might malfunction.
-	- User may not spend their time to interact with interactive poster
-	- User may 
+	- User may not spend their time more to interact with interactive poster.
+	
  
 4. Constraints 
-	- The students do not really think that this installation is needed
-	- The students totally ignore the installation
+	- User do not really think that this interactive poster can link to every club and society.
+	- Users ignore the application if they think it is an extra for them.
 
-5. Users 
 
 ### d. User observations
-Understand user needs and behavior and describe it.
-Find various aspect of audience/customer
- 
+
 [![User_Observation1.jpg](http://s20.postimg.org/frun8umel/User_Observation1.jpg)](http://postimg.org/image/m5jqc3rah/)
 [![User_Observation2.jpg](http://s20.postimg.org/rfop3ebjh/User_Observation2.jpg)](http://postimg.org/image/lrieci76x/)
 [![User_Observation3.jpg](http://s20.postimg.org/yhmmplf59/User_Observation3.jpg)](http://postimg.org/image/5rzqsyb55/)
