@@ -108,41 +108,42 @@ On Monday, Bu Dong went to her university. She went early morning to set up the 
 
 ### b. Requirements
 Describe necessary capabilities of the product
-1. Functional and data needs
+#### . Functional and data needs
 
-####Planing for Interactive-Poster
+- Planing for Interactive-Poster
 [![FLOOR_PLAN.png](http://s20.postimg.org/q6r66wnvx/FLOOR_PLAN.jpg)](http://postimg.org/image/7efb3brhl/)
 [![Installation_Planing.png](http://s20.postimg.org/9a6os85pp/Installation_Planing.png)](http://postimg.org/image/9a6os85pl/)
 
-####Survey Form
-[![Survey1.png](http://s20.postimg.org/6mh8hvcod/Survey1.png)](http://postimg.org/image/lv75vn6cp/)
-[![Survey2.png](http://s20.postimg.org/q31y4e7sd/Survey2.png)](http://postimg.org/image/tmnvu7ai1/)
-[![Survey3.png](http://s20.postimg.org/kqd3q9jvx/Survey3.png)](http://postimg.org/image/muxgrclih/)
-[![Survey4.png](http://s20.postimg.org/b4jj9ysq5/Survey4.png)](http://postimg.org/image/uz5kw37xl/)
+- Survey Form
 
-2. User mental models
+[![User_Observation1.jpg](http://s20.postimg.org/frun8umel/User_Observation1.jpg)](http://postimg.org/image/m5jqc3rah/)
+[![User_Observation2.jpg](http://s20.postimg.org/rfop3ebjh/User_Observation2.jpg)](http://postimg.org/image/lrieci76x/)
+[![User_Observation3.jpg](http://s20.postimg.org/yhmmplf59/User_Observation3.jpg)](http://postimg.org/image/5rzqsyb55/)
+[![User_Observation4.jpg](http://s20.postimg.org/e8z93vfu5/User_Observation4.jpg)](http://postimg.org/image/y3lapzv1l/)
+
+#### . User mental models
 
 Audiences just need to walk between the white screen, they can feel the fun environment of UNILIFE which are studying, sport, relationship and University. This installation is using visual and interactive devices for audiences to get the information what we want to share.
 
-3. Design imperatives
+#### . Design imperatives
 
 a. This installation provides a visual of fun environment of university life for audiences
 
 b. This installation provides a lot of details in visual for audiences to increase their mindfulness
 
 
-4. Product vision
+#### . Product vision
 
 The students of the university can interact with the installation themselves. They just need to walk through and look at the visual detaily. 
 
-5. Business requirements
+#### . Business requirements
 
 - Collected Information
 # 
 
 
 
-6. Technology
+#### . Technology
 
 The technology we using for this interactive poster is Kinect2.0. Besides that, we are using processing 3.0, JAVA Script coding for our base. The reason why we using kinect2.0 for interactive poster is it can detect 6 person at the same time and fully body structure including face emotion. Other than that, we convert the poster into PNG sequence and using "MAP" method to detect the movement of the user so the interactive poster will according the user movement to have different effect.
 
