@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=OGoZktCzMS4
 
 https://www.youtube.com/watch?v=xFgvNMN2DiQ
 
-We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies to put up their information and animate them into an infographic animation that will attract the attention of the audiences. 
+We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies in university to put up their information and animate them into an infographic animation that will attract the attention of the audiences. For the content of this interactive poster is base on what client need but we recommend client to use typographic, it can be renenber by user easily.
 
 ####2. Competitors / Alternatives / Replacement
 
