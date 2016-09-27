@@ -187,9 +187,13 @@ The size of interactive poster is quite big which is 10 feets X 8 feets, the cap
 Design overall structure of user experience
 [![floor_plan.jpg](https://s20.postimg.org/dq3uszwml/floor_plan.jpg)](https://postimg.org/image/prz8n55ux/)
 
-1. groupings and hierarchy
+	1. groupings and hierarchy
 
-2. Territories of each functional & design elements
+	2. Territories of each functional & design elements
 
 
-3. Arrangements of containers & components
+	3. Arrangements of containers & components
+
+####2. Key path Scenario
+
+The first impression of interactive poster given to user that it is a big weird installation setting at Centrel Plaza. Because of curiosity, user may walk in and have a look into the interactive poster to see is it need any interaction. Besides that, user may wonder if this installation need any huge activity because they will refuse to interact with it. Luckily, interactive poster just need user to passby, it will detect the body movement of user. It will according to the user walking tempo, and show user the infographic. Before know the advertisement and infomation, user may wonder who build this big installation at Centrel Plaze, they not sure who is the oganizer or related to any university club or society. Once user interact with interactive poster, user just can understand what the content talk about.
