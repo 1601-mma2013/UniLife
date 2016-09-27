@@ -175,9 +175,8 @@ The technology we using for this interactive poster is Kinect2.0. Besides that, 
 Deﬁne manifestations of information and functionality
 
 ####1. Information
-* Installation Sketch  
 
-The different betweene interactive poster and graphic poster design without any interactive is attraction and neglection. Human need can remmeber and get the information easily while they are joining in or a part of this installation.
+The different between interactive poster and graphic poster design without any interactive is attraction and neglection. Human need can remember and get the information easily while they are joining in or a part of this installation.
 
 The size of interactive poster is quite big which is 10 feets X 8 feets, the capacity of people joining maximum is 6 person. We link 4 LED screen together and user can do any bidy movement in front of the screen, it can detect the body movement of user to show different infographic for the user.
  
@@ -190,12 +189,13 @@ The size of interactive poster is quite big which is 10 feets X 8 feets, the cap
 
 ### b. Framework
 Design overall structure of user experience
+* Installation Sketch  
 [![floor_plan.jpg](https://s20.postimg.org/dq3uszwml/floor_plan.jpg)](https://postimg.org/image/prz8n55ux/)
 
 
 
 #### Installation Principles 
-* People communicate many ways in their daily life. HCI interaction is concerned with the joint performance of tasks by users and machines. The structure of communication between users with infographic, is some sort of communication, and communication is about movement that by detecting the movement of users then the infographic will react differet images, sounds, videos, text and etc. The interaction of this installation is important to let users to react movement as a communication to understand the content of the infograhpic display on the LED screen.   
+* People communicate many ways in their daily life. HCI interaction is concerned with the joint performance of tasks by users and machines. The structure of communication between users with infographic, is some sort of communication, and communication is about movement that by detecting the movement of users then the infographic will react differet images, sounds, videos, text and etc. The interaction of this installation is important to let users to react movement as a communication to understand the content of the infograhpic display on the LED screen. The way to attract users not to neglect in this installation is users able to communicate with infographic through interactive which can make them feel curiousity and interested.      
 
 
 [![Installation-Planning](https://s20.postimg.org/9a6os85pp/Installation_Planing.png)](https://postimg.org/image/9a6os85pl/)
