@@ -8,13 +8,13 @@ Tay Kar Lok 1142701018 | Yong Soon Xuan 1131119497 | Yu Kah Man 1142701211
 ### a. Scope
 1. Objectives
 
-	To let the clubs and societies to have a better method to promote and publicize their events.
+	To let the univeristy clubs and societies to have a better method to promote and publicize their events.
 
 ### b. Audit
 
 Review existing work and product
 
-1. Field (market) research
+####1. Field (market) research
 	The links below are the existing work and products that similar to the installation that we are goint to do.
 
 	https://www.youtube.com/watch?v=OGoZktCzMS4
@@ -23,9 +23,9 @@ Review existing work and product
 
 	We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies to put up their information and animate them into an infographic animation that will attract the attention of the audiences. 
 
-2. Competitors / Alternatives / Replacement
+####2. Competitors / Alternatives / Replacement
 
-	The competitors of this installation will be those artists that have the similar concept with us, though the content might be different. 
+		The competitors of this installation will be those artists like Sarah Moore and Toshio Iwai ,  that have the similar concept with us, though the content might be different. 
 
 	Pros - Improved publicity of the events
 
@@ -39,13 +39,16 @@ Review existing work and product
 Understand product vision and constraints
 
 1. Product vision 
-
+	- The content of this interactive poster is more in infograhic and advertising
+ 
 
 2. Risk
 	- The audience might not really interact with our installation.
 
 3. Obstacles
 	- The risk of using kinect is it might not function properly when a lot of people detected in front of the kinect. The device and the processing might malfunction.
+	- User may not spend their time to interact with interactive poster
+	- User may 
  
 4. Constraints 
 	- The students do not really think that this installation is needed
