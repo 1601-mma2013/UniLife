@@ -24,8 +24,8 @@ We are using these 2 links as a reference due to technique is similar with what 
 
 ####2. Competitors / Alternatives / Replacement
 
-#####Portal MMU - University Portal bulletin
-#####Facebook - Social Network
+######Portal MMU - University Portal bulletin
+######Facebook - Social Network
 
 Pros 
 - Users can get the event or activities information by using Portal MMU
@@ -35,7 +35,7 @@ Cons
 - Users need to sign in just for getting the infomation or advertisement
 - User cannot have any interaction with the advertisement by using portal MMU.
 
-#####Facebook - Social network
+######Facebook - Social network
 
 Pros
 - It is easily for user to get event information by using any gadgets that can access facebook
@@ -123,8 +123,11 @@ Alyssa will pass by the corridor of the library every weekday afther she finishe
 
 
 ### b. Requirements
+
 Describe necessary capabilities of the product
+
 #### . Functional and data needs
+
 
 #### . User mental models
 
@@ -183,3 +186,10 @@ The size of interactive poster is quite big which is 10 feets X 8 feets, the cap
 ### b. Framework
 Design overall structure of user experience
 [![floor_plan.jpg](https://s20.postimg.org/dq3uszwml/floor_plan.jpg)](https://postimg.org/image/prz8n55ux/)
+
+1. groupings and hierarchy
+
+2. Territories of each functional & design elements
+
+
+3. Arrangements of containers & components
