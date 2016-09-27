@@ -15,11 +15,12 @@ Tay Kar Lok 1142701018 | Yong Soon Xuan 1131119497 | Yu Kah Man 1142701211
 Review existing work and product
 
 ####1. Field (market) research
-	The links below are the existing work and products that similar to the installation that we are goint to do.
 
-	https://www.youtube.com/watch?v=OGoZktCzMS4
+The links below are the existing work and products that similar to the installation that we are goint to do.
 
-	https://www.youtube.com/watch?v=xFgvNMN2DiQ
+https://www.youtube.com/watch?v=OGoZktCzMS4
+
+https://www.youtube.com/watch?v=xFgvNMN2DiQ
 
 	We are using these 2 links as a reference due to technique is similar with what we are going to do. What makes our installation different from them is that our target audience will be students in the university. We will help the event organisers from the club and societies to put up their information and animate them into an infographic animation that will attract the attention of the audiences. 
 
