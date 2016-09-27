@@ -8,7 +8,7 @@ Tay Kar Lok 1142701018 | Yong Soon Xuan 1131119497 | Yu Kah Man 1142701211
 ### a. Scope
 1. Objectives
 
-	To let the univeristy clubs and societies to have a better method to promote and publicize their events.
+	To let the Multimedia University Cyberjaya Chinese Language Society to have a better method to promote and publicize their events.
 
 ### b. Audit
 
@@ -82,22 +82,34 @@ Understand product vision and constraints
 
 
 ### a. Personas
-Name : Wo Bu Dong
-Occupation : Student, Event Organiser
+Name : Alyssa
+Occupation : Student of Multimedia University
 Age : 18
+Faculty : Faculty of Management
+
+Bio
+
+Alyssa is a undergrad student of Accounting in Faculty of Management in Multimedia University Cyberjaya. She is staying hostel with her friends. She spend most of the time for her assignments, so she think her university life is very boring. In the same time, her room mate always went out and join the events of the clubs and societies in university. She wanted to join also but she is too lazy, some more she think that it will be a waste of time if she join, because she think that the activity itself is not interesting enough. 
 
 
 1. **Goals** 
-To really interact with the artwork itself and explore the meaning of the content behind
 
-2. Patterns in user and customer behaviors - Bu Dong always too focus on one thing that will make her missed other things, and make her become very careless. 
+-To have more fun and interesting moment in her university life
 
-3. Attitudes - She is good in design
-             - She is very self discipline
+-Need somthing that make her think is interesting enough 
 
-4. Aptitudes - She uses poster as her method for publicity of her events
 
-5. Environments - bulletin board
+2. Patterns in user and customer behaviors - 
+3. Attitudes - She is very neglectful about the things she doens't concern
+             - She is very concerned on her assignment
+	     - She doesn't really like to join the activity of the clubs in her university
+	     - She spend most of the time herself, rarely to hang out with friends
+
+4. Aptitudes - She will walk back from building of the Faculty of Management to her hostel
+
+5. Environments - The corridor in front of the library 
+                   
+		  Alyssa will pass by the corridor of the library every weekday afther she finished her class, where she can see a lot of poster pasted on the bulletin board. She will walk from Faculty of Management to her hostel through this path.
 
 6. Tools - LED screens, Computer, Kinect
 
@@ -115,22 +127,12 @@ Represent domain factors beyond individual users and customers
 
 A sample context scenario
 
-The following is the first iteration of a context scenario for a primary persona for a personal digital assistant (PDA) type phone, including both the device and its service. Our persona is Vivien Strong, a real-estate agent in Indianapolis, whose goals are to balance work and home life, close the deal, and make each client feel like he or she is her only client.
+The following is the first iteration of a context scenario for a primary persona for a personal digital assistant (PDA) type phone, including both the device and its service. Our persona is Vivien Strong, a real-estate agent in Indianapolis, whose goals are to balance work and home life, close the deal, and make each client feel like he or she is her only client. 
 
-Here is Vivien’s context scenario:
+Here is Alyssa’s context scenario:
 
-1. While getting ready in the morning, Vivien uses her phone to check her e-mail. Because it has a relatively large screen and quick connection time, it’s more convenient than booting up a computer as she rushes to make her daughter, Alice, a sandwich for school.
-2. Vivien sees an e-mail from her newest client, Frank, who wants to look at a house this afternoon. The device has his contact info, so she can call him with a simple action right from the e-mail.
-3. While on the phone with Frank, Vivien switches to speakerphone so she can view the screen while talking. She looks at her appointments to see when she’s free. When she creates a new appointment, the phone automatically makes it an appointment with Frank, because it knows with whom she is talking. She quickly enters the address of the property into the appointment as she finishes her conversation.
-4. After sending Alice to school, Vivien heads into the real-estate office to gather some papers for another appointment. Her phone has already updated her Outlook appointments, so the rest of the office knows where she’ll be in the afternoon.
-5. The day goes by quickly, and eventually Vivien is running a bit late. As she heads toward the property she’ll be showing Frank, the phone alerts her that her appointment is in 15 minutes. When she flips open the phone, she sees not only the appointment, but also a list of all documents related to Frank, including e-mails, memos, phone messages, and call logs to Frank’s number. Vivien initiates a call, and the phone automatically connects to Frank because it knows her appointment with him is soon. She lets him know she’ll be there in 20 minutes.
-6. Vivien knows the address of the property but is unsure exactly where it is. She pulls over and taps the address she put into the appointment. The phone downloads directions along with a thumbnail map showing her location relative to the destination.
-7. Vivien gets to the property on time and starts showing it to Frank. She hears the phone ring from her purse. Normally while she is in an appointment, the phone automatically goes to voicemail, but Alice has a code she can press to get through. The phone knows it’s Alice calling, so it uses a distinctive ringtone.
-8. Vivien takes the call. Alice missed the bus and needs to be picked up. Vivien calls her husband to see if he can do it. She gets his voicemail; he must be out of service range. She tells him she’s with a client and asks if he can get Alice. Five minutes later the phone sounds a brief tone. Vivien recognizes it as her husband’s; she sees he’s sent her an instant message: “I’ll get Alice; good luck on the deal!”
+1. 8:00 O' clock early in the morning, Alyssa woke up and prepare to go for her class. While preparing, she saw a flyer on the floor, she quickly pick it up and throw it into the dustbin. Then she walk to the class by taking the same path as usual. While she walk through Central Plaza, a lot of students asked her to join the events, gave her flyers, but she declined all of them. She saw four LED screens were set on the wall of the library, but she didn't care about it so she just walk by because it was the same poster as she saw in the morning. But then something caught her attention, the content of the poster in the LED screen move as well as she moved. Then, she try to play around with it and she find it very interesting. By playing with the installation, she also saw a lot of informations of the event and photos from the event before. She began to get interested about the event, but it is time for her class so she rush to her class immediately. After her class, she want to walk back to her hostel. On the same way, she realise that there are a lot of people gathering in front of the library which they are playing with the installation itself. Then she decided to walk to the booth and ask for the detail. Finally she joined the event as a participant. Then she walk back to her hostel and rest. 
 
-Notice how the scenario remains at a fairly high level, without getting too specific about interfaces or technologies. It’s important to create scenarios that are within the realm of technical possibility, but at this stage the details of reality are unimportant. We want to leave the door open for truly novel solutions, and it’s always possible to scale back; we are ultimately trying to describe an optimal, yet still feasible, experience. Also notice how the activities in the scenario tie back to Vivien’s goals and try to eliminate as many tasks as possible.
-
-//On Monday, Bu Dong went to her university. She went early morning to set up the booth the promote and publicize her club event, so she put flyers and poster on the table. Then she turn on a laptop to play the promotional video and put it on the table also. After that, she went to the bulletin board in front of the library and went back to her booth. Through out the whole publicizing session, she realise that there are only few people that will stop and really take a look on the poster, flyer or the promotional video. Others were just walked by and ignored them. In the end, during evening, she kept all the stuff and went back home, and only get a few number of participant to join her event. So during night time, she figure out that she need something more interesting something that can catch the attention of the students attention easily to promote her event effectively. 
 
 ### b. Requirements
 Describe necessary capabilities of the product
