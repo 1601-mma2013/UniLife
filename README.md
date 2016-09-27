@@ -80,7 +80,6 @@ Understand product vision and constraints
 
 ## 2. Modeling
 
-[![floor_plan.jpg](https://s20.postimg.org/dq3uszwml/floor_plan.jpg)](https://postimg.org/image/prz8n55ux/)
 
 ### a. Personas
 Name : Wo Bu Dong
@@ -177,6 +176,10 @@ The technology we using for this interactive poster is Kinect2.0. Besides that, 
 ### a. Elements
 Deﬁne manifestations of information and functionality
 1. Information
+[![floor_plan.jpg](https://s20.postimg.org/dq3uszwml/floor_plan.jpg)](https://postimg.org/image/prz8n55ux/)
+The different betweene interactive poster and graphic poster design without any interactive is attraction and neglection. Human need can remmeber and get the information easily while they are joining in or a part of this installation.
+
+The size of interactive poster is quite big which is 10 feets X 8 feets, the capacity of people joining maximum is 6 person. We link 4 LED screen together and user can do any bidy movement in front of the screen, it can detect the body movement of user to show different infographic for the user.
 
 2. Functions
 
@@ -185,6 +188,8 @@ Deﬁne manifestations of information and functionality
 4. Actions
 
 5. Domain object models
+
+
 
 ### b. Framework
 Design overall structure of user experience
