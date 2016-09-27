@@ -74,23 +74,24 @@ Find various aspect of audience/customer
 
 ## 2. Modeling
 ### a. Personas
-Name : Goh Peh Min
-Occupation : Student
+Name : Wo Bu Dong
+Occupation : Student, Event Organiser
 Age : 18
 
 
 1. **Goals** 
 To really interact with the artwork itself and explore the meaning of the content behind
 
-2. Patterns in user and customer behaviors - Peh Min always too focus on one thing that will make her missed other things, and make her become very careless. 
+2. Patterns in user and customer behaviors - Bu Dong always too focus on one thing that will make her missed other things, and make her become very careless. 
 
-3. Attitudes - She wish that she can overcome the carelessness and neglectful.
+3. Attitudes - She is good in design
+             - She is very self discipline
 
-4. Aptitudes - She always focus on her handphone or the things in front of her while she is walking. 
+4. Aptitudes - She uses poster as her method for publicity of her events
 
-5. Environments - public space
+5. Environments - bulletin board
 
-6. Tools - hand
+6. Tools - LED screens, Computer, Kinect
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
@@ -103,7 +104,7 @@ Represent domain factors beyond individual users and customers
 # II. Synthesis
 ## 3. Requirements Definition
 ### a. Context Scenarios
-On Monday, Peh Min woke up early as usual to prepare herself to university. She has to do a presentation about the progress of her assignment that day, and she felt bored, because she feels like she go to university just for assignment and study and graduate with the certificate. Besides that she also felt very streesed because she need to submit the assignment next week, and the assignments are going to take most of her free time. After she arrived at university, she rush to the class as usual just in case not to get late for her presentation, but something stops her. A big screen that shows the video that react based on her movement stopped her, as she walk slowly, backward and forward again, she tested the installation. The video is about the fun moments in the university, such as having fun while doing assignments, go for sports, gaming for relax and more. As she watch the video carefully, she realise that she might change her boring university life. So she quickly rush to the class and do her presentation. After that, she invited her friends, go to a coffee shop, discuss while relaxing themselves, and they find that it is more effective to finish the assignment and more enjoyable. After the discussion, is already night time, so she went back to sleep. Before she sleep, she recall the installation she watched this morning and she think that, she might as well enjoy her uni life as the video shown on the installation. 
+On Monday, Bu Dong went to her university. She went early morning to set up the booth the promote and publicize her club event, so she put flyers and poster on the table. Then she turn on a laptop to play the promotional video and put it on the table also. After that, she went to the bulletin board in front of the library and went back to her booth. Through out the whole publicizing session, she realise that there are only few people that will stop and really take a look on the poster, flyer or the promotional video. Others were just walked by and ignored them. In the end, during evening, she kept all the stuff and went back home, and only get a few number of participant to join her event. So during night time, she figure out that she need something more interesting something that can catch the attention of the students attention easily to promote her event effectively. 
 
 ### b. Requirements
 Describe necessary capabilities of the product
@@ -113,12 +114,13 @@ Describe necessary capabilities of the product
 [![FLOOR_PLAN.png](http://s20.postimg.org/q6r66wnvx/FLOOR_PLAN.jpg)](http://postimg.org/image/7efb3brhl/)
 [![Installation_Planing.png](http://s20.postimg.org/9a6os85pp/Installation_Planing.png)](http://postimg.org/image/9a6os85pl/)
 
-2. User mental models
+####Survey Form
+[![Survey1.png](http://s20.postimg.org/6mh8hvcod/Survey1.png)](http://postimg.org/image/lv75vn6cp/)
+[![Survey2.png](http://s20.postimg.org/q31y4e7sd/Survey2.png)](http://postimg.org/image/tmnvu7ai1/)
+[![Survey3.png](http://s20.postimg.org/kqd3q9jvx/Survey3.png)](http://postimg.org/image/muxgrclih/)
+[![Survey4.png](http://s20.postimg.org/b4jj9ysq5/Survey4.png)](http://postimg.org/image/uz5kw37xl/)
 
-[![User_Observation1](http://s20.postimg.org/frun8umel/User_Observation1.jpg)](http://postimg.org/image/m5jqc3rah/)
-[![User_Observation2](http://s20.postimg.org/rfop3ebjh/User_Observation2.jpg)](http://postimg.org/image/lrieci76x/)
-[![User_Observation3](http://s20.postimg.org/yhmmplf59/User_Observation3.jpg)](http://postimg.org/image/5rzqsyb55/)
-[![User_Observation4](http://s20.postimg.org/e8z93vfu5/User_Observation4.jpg)](http://postimg.org/image/y3lapzv1l/)
+2. User mental models
 
 Audiences just need to walk between the white screen, they can feel the fun environment of UNILIFE which are studying, sport, relationship and University. This installation is using visual and interactive devices for audiences to get the information what we want to share.
 
